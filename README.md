@@ -1,42 +1,32 @@
 # Robowar Combat Robot
 
-A competition-style robot project represented by chassis CAD screenshots and a photograph of a fabricated metal chassis. The materials document the mechanical layout and fabrication stage.
+A team-built robot with a custom chassis and a **four-motor drive arrangement**, using one motor for each wheel. The team completed the robot build and fabricated the chassis.
 
-**Portfolio:** Thiruppathi P · [Thirusprojects](https://github.com/Thirusprojects)
+![Fabricated chassis](media/images/img-3815.jpg)
 
-![Robowar Combat Robot — supplied project image](media/images/img-0027.jpg)
+## My contribution
 
-## Project status
+I **designed the chassis**. Our team built the chassis and completed the robot, bringing the mechanical structure and four-wheel drive system together.
 
-CAD screenshots and physical chassis evidence available. A completed operational robot or competition result is not documented in this upload.
+## Drivetrain and construction
 
-## Contribution
+Each of the four wheels was connected to its own motor. The build used **48 V electric motors of the type used in cycles or electric vehicles**, with ESCs rated at approximately **120 A**.
 
-Personal design, fabrication and integration responsibilities are awaiting confirmation.
+| Item | Details |
+| --- | --- |
+| Chassis | Custom design; fabricated by the team |
+| My confirmed contribution | Chassis design |
+| Drive arrangement | Four motors, one per wheel |
+| Motors | 48 V electric motors |
+| ESC rating | Approximately 120 A |
+| Build status | Complete robot built |
 
-## Design and documented features
+The ESC figure is a component rating, not a measured operating current. Motor model, battery specification, competition weight class and any weapon mechanism are not specified here.
 
-- Low-profile chassis concept shown in CAD screenshots.
-- Fabricated metal structure with internal divisions.
-- Mechanical design and construction documentation.
+## Chassis design views
 
-## Image gallery
+![Chassis CAD view 1](media/images/img-0027.jpg)
 
-- [Project image 1](media/images/img-0027.jpg)
-- [Project image 2](media/images/img-0028.jpg)
-- [Project image 3](media/images/img-0029.jpg)
-- [Project image 4](media/images/img-3815.jpg)
+![Chassis CAD view 2](media/images/img-0028.jpg)
 
-## Evidence and limitations
-
-Drive motors, controller, battery, weapon mechanism, weight class and competition participation require confirmation. No competitive results or completed functional tests are claimed.
-
-## Details to complete
-
-Confirm your contribution, weight class, drivetrain and control hardware, operational status and any event participation.
-
-## File provenance
-
-See [asset inventory](docs/ASSETS.md) for the mapping to supplied filenames. JPEG and MP4 exports are provided for browser access. Original presentation, PDF and CAD contents are retained where supplied.
-
-This repository documents project materials supplied by the portfolio owner. Team work and third-party design contributions should be credited as their roles are confirmed.
+![Chassis CAD view 3](media/images/img-0029.jpg)
